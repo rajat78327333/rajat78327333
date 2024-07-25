@@ -1,5 +1,9 @@
 
 # 💫 About Me:
+Highly motivated and skilled Fresher Computer Technology with a passion for developing innovative 
+software solutions. Proficient in programming language including Java also with experience in DevOps. 
+Collaborative team player with a proven track record of delivering quality work and achieving 
+exceptional results. 
 👯 I’m looking to collaborate <br>🌱 I’m currently learning DevOps And AWS<br>
 
 
